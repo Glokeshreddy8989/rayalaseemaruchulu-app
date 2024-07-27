@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color:white;
+}
+#header2{
+    border:1px solid black;
+    height: auto;
+    width:auto;
+    text-align: center;
+    padding-top: 50px;
+}
+img{
+    border-radius:100px;
+    padding: 0px;
+    
+}
+.child1,.child2,.child3{
+    border:1px solid black;
+
+}
+.row1{
+    display:flex;
+    justify-content: space-evenly;
+    padding:50px;
+
+}
+.child01,.child02,.child03{
+    border:1px solid black;
+
+}
+.row2{
+    display:flex;
+    justify-content: space-evenly;
+    padding:50px;
+
+}
